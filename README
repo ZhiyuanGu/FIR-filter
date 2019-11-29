@@ -1,0 +1,21 @@
+README file - ECE1756 lab2 FIR filter 
+- developer:	Zhiyuan Gu
+- date: 	Nov 3, 2019
+
+1. File list:
+-------------
+coef_out.mif
+in7_adder_tree.v
+lab2.v
+mult_add_dsp.qip
+mult_add_dsp.v
+outdata.txt
+tb.sv
+lab2_quartus.qar
+README
+report.pdf
+
+2. Please recover from Quartus archive file "lab2_quartus.qar" and use "tb.sv" to test the filter.
+	(the version of Quartus used is Quartus Prime 18.11 Standard Edition)
+
+Thank you for reading!
